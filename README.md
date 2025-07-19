@@ -29,6 +29,7 @@ link: https://rangeltur.site/
 
 Estou sempre aberto a novas oportunidades, colaborações e a aprender com a comunidade. Sinta-se à vontade para entrar em contato:
 
+**Linkedin**: [Oresto Bacelar](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 * **GitHub**: [orestobacelar](https://github.com/oresto2302)
 * **WhatsApp**: [Mande uma mensagem](https://wa.me/5598984403790)
 

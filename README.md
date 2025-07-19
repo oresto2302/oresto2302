@@ -13,7 +13,7 @@ Estou em constante aprendizado e aprofundando meus conhecimentos na área de **b
 💡 Habilidades Principais:
 
 * **Frontend**: HTML5, CSS3, JavaScript, React.js, TypeScript
-* **Backend**: Python, Flask, C
+* **Backend**: Python e C
 * **Ferramentas**: Git
 
 🚀 Meus Projetos:

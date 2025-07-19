@@ -29,7 +29,7 @@ link: https://rangeltur.site/
 
 Estou sempre aberto a novas oportunidades, colaborações e a aprender com a comunidade. Sinta-se à vontade para entrar em contato:
 
-* **GitHub**: [orestobacelar](https://github.com/orestobacelar)
+* **GitHub**: [orestobacelar] https://github.com/oresto2302/oresto2302/blob/main/README.md
 * **WhatsApp**: [Mande uma mensagem](https://wa.me/5586994250444)
 
 ---
